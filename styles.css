@@ -1,0 +1,53 @@
+/* ---------------------------------------- */
+/* BASIC SETUP */
+/* ---------------------------------------- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: black;
+    font-weight: 300;
+    font-size: 20px; 
+}
+
+h1 {
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+
+header {
+    text-align: center;
+}
+
+
+
+#quoteContainer {
+    margin-left: 30px;
+}
+
+#box-container {
+    display: flex;
+    margin-top: 10px;
+  }
+
+
+.btn-main {
+    background-color: #5834a7;
+    font-family: 'Lato', sans-serif;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 300px;
+    border: 1px solid#fff;
+    color: #fff;
+    margin-top: 20px;  
+}
+
